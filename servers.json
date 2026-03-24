@@ -1,12 +1,52 @@
 [
-	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
-		"type": "PC"
-	}
+  {
+    "name": "TrySmp",
+    "ip": "TrySmp.net",
+    "type": "PC"
+  },
+  {
+    "name": "FableSMP",
+    "ip": "FableSMP.net",
+    "type": "PC"
+  },
+  {
+    "name": "Toxiss",
+    "ip": "Toxiss.net",
+    "type": "PC"
+  },
+  {
+    "name": "EuropeMC",
+    "ip": "europemc.eu",
+    "type": "PC"
+  },
+  {
+    "name": "FreshSMP",
+    "ip": "play.FreshSMP.fun",
+    "type": "PC"
+  },
+  {
+    "name": "Hobbylos",
+    "ip": "hobbylos.net",
+    "type": "PC"
+  },
+  {
+    "name": "HugoSMP",
+    "ip": "hugosmp.net",
+    "type": "PC"
+  },
+  {
+    "name": "GommeHD",
+    "ip": "gommehd.net",
+    "type": "PC"
+  },
+  {
+    "name": "WindSMP",
+    "ip": "windsmp.de",
+    "type": "PC"
+  },
+  {
+    "name": "felix.chunklock.com",
+    "ip": "felix.chunklock.com",
+    "type": "PC"
+  }
 ]
