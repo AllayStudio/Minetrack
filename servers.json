@@ -53,5 +53,10 @@
     "name": "centralpvp.net",
     "ip": "centralpvp.net",
     "type": "PC"
+  },
+  {
+    "name": "shardsmp.net",
+    "ip": "shardsmp.net",
+    "type": "PC"
   }
 ]
