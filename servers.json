@@ -48,5 +48,10 @@
     "name": "felix.chunklock.com",
     "ip": "felix.chunklock.com",
     "type": "PC"
+  },
+  {
+    "name": "centralpvp.net",
+    "ip": "centralpvp.net",
+    "type": "PC"
   }
 ]
