@@ -58,5 +58,10 @@
     "name": "shardsmp.net",
     "ip": "shardsmp.net",
     "type": "PC"
+  },
+  {
+    "name": "DaniSMP",
+    "ip": "danismp.de",
+    "type": "PC"
   }
 ]
