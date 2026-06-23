@@ -45,28 +45,33 @@
     "type": "PC"
   },
   {
-    "name": "felix.chunklock.com",
+    "name": "ChunkLock",
     "ip": "felix.chunklock.com",
     "type": "PC"
   },
   {
-    "name": "centralpvp.net",
+    "name": "CentralPvP",
     "ip": "centralpvp.net",
     "type": "PC"
   },
   {
-    "name": "shardsmp.net",
+    "name": "ShardSMP",
     "ip": "shardsmp.net",
     "type": "PC"
   },
   {
-    "name": "flowpvp.gg",
+    "name": "FlowPvP",
     "ip": "flowpvp.gg",
     "type": "PC"
   },
   {
     "name": "DaniSMP",
     "ip": "danismp.de",
+    "type": "PC"
+  },
+  {
+    "name": "Mineplex",
+    "ip": "play.mineplex.com",
     "type": "PC"
   }
 ]
