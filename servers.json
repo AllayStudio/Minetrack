@@ -73,5 +73,10 @@
     "name": "Mineplex",
     "ip": "play.mineplex.com",
     "type": "PC"
+  },
+  {
+    "name": "PvPHQ",
+    "ip": "pvphq.com",
+    "type": "PC"
   }
 ]
